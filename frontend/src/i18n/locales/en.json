@@ -1,0 +1,94 @@
+{
+  "app": {
+    "name": "Kapsula",
+    "tagline": "Reservation platform"
+  },
+  "nav": {
+    "home": "Home",
+    "business": "Businesses",
+    "bookings": "Bookings",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "admin": "Admin"
+  },
+  "home": {
+    "title": "Available reservations",
+    "search": "Search...",
+    "filter_all": "All",
+    "filter_barber": "Barber",
+    "filter_cafe": "Cafe",
+    "filter_salon": "Salon"
+  },
+  "business": {
+    "services": "Services",
+    "staff": "Staff",
+    "hours": "Hours",
+    "book": "Book",
+    "no_slots": "No available slots",
+    "address": "Address",
+    "phone": "Phone"
+  },
+  "booking": {
+    "title": "Booking",
+    "name": "Your name",
+    "phone": "Phone",
+    "notes": "Notes",
+    "confirm": "Confirm",
+    "success": "Booking confirmed!",
+    "pending": "Pending...",
+    "select_slot": "Select time"
+  },
+  "slot": {
+    "available": "Available",
+    "locked": "Locked",
+    "booked": "Booked"
+  },
+  "status": {
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "cancelled": "Cancelled",
+    "no_show": "No show"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "phone": "Phone",
+    "password": "Password",
+    "name": "Name",
+    "role": "Role",
+    "role_customer": "Customer",
+    "role_business": "Business",
+    "no_account": "Don't have an account?",
+    "has_account": "Already have an account?"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "businesses": "Businesses",
+    "activate": "Activate",
+    "deactivate": "Deactivate",
+    "stats": "Statistics",
+    "total_businesses": "Total businesses",
+    "total_users": "Total users",
+    "total_bookings": "Total bookings"
+  },
+  "days": {
+    "0": "Sunday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next"
+  }
+}

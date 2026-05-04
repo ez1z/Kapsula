@@ -1,0 +1,94 @@
+{
+  "app": {
+    "name": "Kapsula",
+    "tagline": "Rezervasyon platformu"
+  },
+  "nav": {
+    "home": "Ana sayfa",
+    "business": "İşletmeler",
+    "bookings": "Rezervasyonlar",
+    "login": "Giriş",
+    "register": "Kayıt ol",
+    "logout": "Çıkış",
+    "admin": "Yönetim"
+  },
+  "home": {
+    "title": "Mevcut rezervasyonlar",
+    "search": "Ara...",
+    "filter_all": "Tümü",
+    "filter_barber": "Berber",
+    "filter_cafe": "Kafe",
+    "filter_salon": "Salon"
+  },
+  "business": {
+    "services": "Hizmetler",
+    "staff": "Personel",
+    "hours": "Çalışma saatleri",
+    "book": "Rezervasyon yap",
+    "no_slots": "Uygun zaman yok",
+    "address": "Adres",
+    "phone": "Telefon"
+  },
+  "booking": {
+    "title": "Rezervasyon",
+    "name": "Adınız",
+    "phone": "Telefon",
+    "notes": "Notlar",
+    "confirm": "Onayla",
+    "success": "Rezervasyon kabul edildi!",
+    "pending": "Bekleniyor...",
+    "select_slot": "Zaman seçin"
+  },
+  "slot": {
+    "available": "Müsait",
+    "locked": "Kilitli",
+    "booked": "Dolu"
+  },
+  "status": {
+    "pending": "Bekliyor",
+    "confirmed": "Onaylandı",
+    "cancelled": "İptal edildi",
+    "no_show": "Gelmedi"
+  },
+  "auth": {
+    "login": "Giriş",
+    "register": "Kayıt ol",
+    "phone": "Telefon",
+    "password": "Şifre",
+    "name": "Ad",
+    "role": "Rol",
+    "role_customer": "Müşteri",
+    "role_business": "İşletme",
+    "no_account": "Hesabınız yok mu?",
+    "has_account": "Hesabınız var mı?"
+  },
+  "admin": {
+    "dashboard": "Yönetim",
+    "businesses": "İşletmeler",
+    "activate": "Aktive et",
+    "deactivate": "Deaktive et",
+    "stats": "İstatistikler",
+    "total_businesses": "Toplam işletme",
+    "total_users": "Toplam kullanıcı",
+    "total_bookings": "Toplam rezervasyon"
+  },
+  "days": {
+    "0": "Pazar",
+    "1": "Pazartesi",
+    "2": "Salı",
+    "3": "Çarşamba",
+    "4": "Perşembe",
+    "5": "Cuma",
+    "6": "Cumartesi"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "back": "Geri",
+    "next": "İleri"
+  }
+}

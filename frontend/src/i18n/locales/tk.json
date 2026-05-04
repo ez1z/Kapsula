@@ -1,0 +1,94 @@
+{
+  "app": {
+    "name": "Kapsula",
+    "tagline": "Rezerwasiýa platformasy"
+  },
+  "nav": {
+    "home": "Baş sahypa",
+    "business": "Işgärler",
+    "bookings": "Rezerwasiýalar",
+    "login": "Girmek",
+    "register": "Agza bolmak",
+    "logout": "Çykmak",
+    "admin": "Dolandyryş"
+  },
+  "home": {
+    "title": "Häzirki rezerwasiýalar",
+    "search": "Gözle...",
+    "filter_all": "Hemmesi",
+    "filter_barber": "Sakgal",
+    "filter_cafe": "Kafe",
+    "filter_salon": "Salon"
+  },
+  "business": {
+    "services": "Hyzmatlar",
+    "staff": "Işgärler",
+    "hours": "Iş wagty",
+    "book": "Rezerwasiýa et",
+    "no_slots": "Boş wagtlar ýok",
+    "address": "Salgysy",
+    "phone": "Telefon"
+  },
+  "booking": {
+    "title": "Rezerwasiýa",
+    "name": "Adyňyz",
+    "phone": "Telefon",
+    "notes": "Bellik",
+    "confirm": "Tassyklamak",
+    "success": "Rezerwasiýa kabul edildi!",
+    "pending": "Kabul edilýär...",
+    "select_slot": "Wagt saylaň"
+  },
+  "slot": {
+    "available": "Boş",
+    "locked": "Buklanylan",
+    "booked": "Doly"
+  },
+  "status": {
+    "pending": "Kabul edilýär",
+    "confirmed": "Tassyklandy",
+    "cancelled": "Yatyryldy",
+    "no_show": "Gelmedi"
+  },
+  "auth": {
+    "login": "Girmek",
+    "register": "Agza bolmak",
+    "phone": "Telefon belgi",
+    "password": "Acar sözi",
+    "name": "Ady",
+    "role": "Rol",
+    "role_customer": "Müşderi",
+    "role_business": "Kärhana",
+    "no_account": "Hasabyňyz ýokmy?",
+    "has_account": "Hasabyňyz varmy?"
+  },
+  "admin": {
+    "dashboard": "Dolandyryş",
+    "businesses": "Kärhanalar",
+    "activate": "Işjeňleşdir",
+    "deactivate": "Öçür",
+    "stats": "Statistika",
+    "total_businesses": "Kärhana sany",
+    "total_users": "Ulanyjy sany",
+    "total_bookings": "Rezerwasiýa sany"
+  },
+  "days": {
+    "0": "Ýekşenbe",
+    "1": "Duşenbe",
+    "2": "Sişenbe",
+    "3": "Çarşenbe",
+    "4": "Penşenbe",
+    "5": "Anna",
+    "6": "Şenbe"
+  },
+  "common": {
+    "loading": "Ýüklenýär...",
+    "error": "Gyzyklanma",
+    "save": "Saýlamak",
+    "cancel": "Goýbolsun",
+    "delete": "Pozmak",
+    "edit": "Üýtgetmek",
+    "back": "Yza",
+    "next": "Next"
+  }
+}
