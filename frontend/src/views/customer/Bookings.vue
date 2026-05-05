@@ -113,3 +113,4 @@ onMounted(() => {
 .badge-confirmed { background: #D1FAE5; color: #065F46; }
 .badge-cancelled { background: #FEE2E2; color: #991B1B; }
 .badge-no_show { background: #E5E7EB; color: #374151; }
+</style>

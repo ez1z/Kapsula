@@ -122,3 +122,4 @@ async function handleGenerate() {
     grid-template-columns: 1fr;
   }
 }
+</style>

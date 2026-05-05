@@ -237,3 +237,4 @@ onMounted(async () => {
   padding: 1rem;
   font-size: 1.125rem;
 }
+</style>

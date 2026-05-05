@@ -107,3 +107,4 @@ function handleLogout() {
   flex: 1;
   padding: 2rem 0;
 }
+</style>

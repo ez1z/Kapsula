@@ -150,3 +150,4 @@ input:focus, select:focus, textarea:focus {
 .mb-1 { margin-bottom: 0.5rem; }
 .mb-2 { margin-bottom: 1rem; }
 .mb-3 { margin-bottom: 1.5rem; }
+</style>

@@ -183,3 +183,4 @@ onMounted(() => {
     grid-template-columns: 1fr;
   }
 }
+</style>
